@@ -4,7 +4,7 @@ print(jmeno + domena)
 
 
 
-#bonus úkolu, ale nedodělaný, nevěděla jsem si rady jak vložit tečky za iniciály
+#bonus úkolu, ale nedodělaný, nevěděla jsem jak udělat standartní variantu jména nebo jak vložit tečky za iniciály
 
 jmeno = input("Napište prosím své jméno: ")
 prijmeni = input("Napište prosím své příjmení: ")
