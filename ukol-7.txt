@@ -1,0 +1,7 @@
+1. Platná a neplatná data
+
+\d{1,2}[./] ?\d{1,2}[./] ?\d{4}
+
+2. Označení adres
+
+\d{3} ?\d{2}  ?[A-Ž]* ?[A-Ž]* ?[A-Ž]* ?\d?\d?\d?
